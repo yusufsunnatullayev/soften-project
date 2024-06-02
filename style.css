@@ -452,3 +452,18 @@ footer h3 {
   bottom: 10;
   margin-top: 50px;
 }
+
+.arrow-up {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #000;
+  z-index: 100;
+  background-color: #fff;
+}
